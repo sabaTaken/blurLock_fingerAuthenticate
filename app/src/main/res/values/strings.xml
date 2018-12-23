@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">git_finger_lock</string>
+    <string name="authenticate">Finger Authenticate</string>
+    <string name="lock">Lock</string>
+    <string name="show_lock_pin_code_created_successfully">رمز با موفقیت ساخته شد</string>
+    <string name="show_lock_try_again">لطفا دوباره سعی کنید</string>
+    <string name="click_to_show">Click To Show</string>
+    <string name="show_lock_pin_code_title">برای ثبت لطفا رمز ورود را وارد کنید</string>
+    <string name="show_lock_enter_pin_code">لطفا رمز عبور را وارد کنید</string>
+
+</resources>
