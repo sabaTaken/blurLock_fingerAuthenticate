@@ -102,13 +102,13 @@ public class FingerActivity extends AppCompatActivity implements BiometricCallba
             }
             else
             {
-                textView.setText("اثر انگشت ندارد");
+                textView.setText("دستگاه شما ، اثر انگشت را پشتیبانی نمی کند");
             }
 
         }
         else
         {
-            textView.setText("ورژن دستگاه شما ، اثر انگشت را پشتیبانی نمی کند");
+            textView.setText("ورژن اندروید دستگاه شما پایین می باشد");
         }
     }
 
